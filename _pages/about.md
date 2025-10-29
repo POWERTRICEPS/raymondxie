@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>San Francisco, CA</p>
+    <br>
     <p>University of California, Santa Barbara</p>
 
 
