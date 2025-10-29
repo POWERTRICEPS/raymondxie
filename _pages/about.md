@@ -29,6 +29,6 @@ latest_posts:
 
 I’m a Computer Science student at UCSB with a strong background in full-stack development, distributed systems, and AI/ML integration. I’m passionate about building intuitive frontends, scalable backends, and cloud-native architectures.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’ve built projects ranging from an AI-powered Tariff Calculator using FastAPI + FAISS, to a real-time chat app (Chattr) using React, Node.js, and WebSockets. My work often focuses on how AI and automation can simplify complex workflows for both developers and consumers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of coding, I’m fascinated by finance, entrepreneurship, and product design — I love exploring how data and technology intersect to create scalable, human-centered solutions.
