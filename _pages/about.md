@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer — AI, Cloud, and Scalable Systems
+subtitle: <u>Software Engineer — AI, Cloud, and Scalable Systems</u>
 
 profile:
   align: right
