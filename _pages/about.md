@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Software Engineer — AI, Cloud, and Scalable Systems
 
 profile:
   align: right
   image: rayy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>San Francisco Bay Area</p>
+    <p>San Francisco, CA</p>
     <p>University of California, Santa Barbara</p>
 
 
