@@ -2,29 +2,37 @@
   type: map
   contents:
     - name: Full Name
-      value: Raymond Xie
+      value: Raymond
     - name: Location
-      value: San Francisco, CA
+      value: San Francisco
     - name: Email
       value: rayxie005@gmail.com
-    - name: Portfolio
-      value: https://raymondxie.github.io/
-    - name: GitHub
+    - name: github
       value: https://github.com/POWERTRICEPS
     - name: LinkedIn
       value: https://linkedin.com/in/xie-raymond
-    - name: Languages
-      value: English, Mandarin
+    - name: Language
+      value: English, Cantonese, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: B.S. in Computer Science
-      institution: University of California, Santa Barbara 
-      year: Expected June 2027
+    - title: B.S in Computer Science
+      institution: University of California, Santa Barbara
+      year: 2027
       description:
         - Coursework: Data Structures & Algorithms, Cloud Computing, Computer Architecture, Database Systems, Logic Design
         - Organizations: ACM AI, ACM WebDev, ACM ICPC
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+#    - title: Federal teaching diploma
+#      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#      year: 1900
+#      description:
+#        - Description 1.
+#        - Description 2.
 
 - title: Experience
   type: time_table
