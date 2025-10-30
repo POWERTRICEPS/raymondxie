@@ -2,7 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Software Engineer — AI, Cloud, and Scalable Systems</i>
+subtitle: > 
+  <i>Software Engineer — AI, Cloud, and Scalable Systems</i>
+  <div style="margin-top:6px;">
+    <a href="https://github.com/POWERTRICEPS" target="_blank" 
+       style="color:#58a6ff; text-decoration:none; margin-right:20px;">
+      <i class="fab fa-github"></i> GitHub
+    </a>
+    <a href="https://linkedin.com/in/xie-raymond" target="_blank" 
+       style="color:#58a6ff; text-decoration:none;">
+      <i class="fab fa-linkedin"></i> LinkedIn
+    </a>
+  </div>
+
 
 profile:
   align: right
