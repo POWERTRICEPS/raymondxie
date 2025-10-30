@@ -2,31 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Raymond Xie
+    - name: Location
+      value: San Francisco, CA
+    - name: Email
+      value: rayxie005@gmail.com
+    - name: Portfolio
+      value: https://raymondxie.github.io/
+    - name: GitHub
+      value: https://github.com/POWERTRICEPS
+    - name: LinkedIn
+      value: https://linkedin.com/in/xie-raymond
     - name: Languages
-      value: English, German
+      value: English, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S. in Computer Science
+      institution: University of California, Santa Barbara 
+      year: Expected June 2027
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Coursework: Data Structures & Algorithms, Cloud Computing, Computer Architecture, Database Systems, Logic Design
+        - Organizations: ACM AI, ACM WebDev, ACM ICPC
 
 - title: Experience
   type: time_table
