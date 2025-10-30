@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <i>Software Engineer — AI, Cloud, and Scalable Systems</i>
 
@@ -9,9 +9,9 @@ profile:
   image: rayy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>San Francisco, CA</p>
+    <p> ⚲ San Francisco, CA</p>
     <br>
-    <p>University of California, Santa Barbara</p>
+    <p> University of California, Santa Barbara </p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -30,6 +30,8 @@ latest_posts:
 
 I’m a Computer Science student at UCSB with a strong background in full-stack development, distributed systems, and AI/ML integration. I’m passionate about building intuitive frontends, scalable backends, and cloud-native architectures.
 
-I’ve built projects ranging from an AI-powered Tariff Calculator using FastAPI + FAISS, to a real-time chat app (Chattr) using React, Node.js, and WebSockets. My work often focuses on how AI and automation can simplify complex workflows for both developers and consumers.
+My technical experience spans across Python, C++, JavaScript, and TypeScript, along with frameworks like React, Node.js, FastAPI, and Django. I’m also experienced with cloud and DevOps tools such as AWS, Docker, and Terraform, and enjoy working with databases, APIs, and real-time systems.
 
-Outside of coding, I’m fascinated by finance, entrepreneurship, and product design — I love exploring how data and technology intersect to create scalable, human-centered solutions.
+I’m passionate about creating intuitive and efficient products that merge engineering precision with thoughtful design. Whether optimizing backend performance, architecting distributed services, or experimenting with AI-powered automation, I’m driven by the challenge of turning complex problems into elegant, user-centered solutions.
+
+Outside of coding, I’m fascinated by finance, entrepreneurship, and product design. I love exploring how data and technology intersect to create scalable, human-centered solutions.
