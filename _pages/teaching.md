@@ -7,6 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Heres my resume. You can also [download it here](/assets/pdf/Raymond_Xie_Resume.pdf).
 
-Organize your courses by years, topics, or universities, however you like!
+<div style="text-align:center; margin-top: 20px;">
+  <iframe 
+    src="/assets/pdf/Raymond_Xie_Resume.pdf" 
+    width="100%" 
+    height="800px" 
+    style="border:none;">
+  </iframe>
+</div>
