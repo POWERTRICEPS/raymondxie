@@ -10,8 +10,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> ⚲ San Francisco, CA</p>
-    <br>
     <p> University of California, Santa Barbara </p>
+    <p>
+      <a href="https://github.com/POWERTRICEPS" target="_blank" style="color:#58a6ff;">
+        GitHub
+      </a>
+    </p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
