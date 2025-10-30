@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Resume Download
+permalink: /download/
+title: download
 description: 
 nav: true
 nav_order: 6
@@ -9,12 +9,11 @@ nav_order: 6
 
 Heres my resume. You can also [download it here](/assets/pdf/Raymond_Xie_Resume.pdf).
 
-<div style="display:flex; justify-content:center; align-items:center; height:90vh;">
-  <object
-    data="{{ '/assets/pdf/Raymond_Xie_Resume.pdf' | relative_url }}"
-    type="application/pdf"
-    width="80%"
-    height="100%"
+<div style="text-align:center; margin-top: 20px;">
+  <iframe 
+    src="{{ '/assets/pdf/Raymond_Xie_Resume.pdf' | relative_url }}"
+    width="100%" 
+    height="800px" 
     style="border:none;">
-  </object>
+  </iframe>
 </div>
