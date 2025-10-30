@@ -30,7 +30,7 @@ latest_posts:
 
 I’m a Computer Science student at UCSB with a strong background in full-stack development, distributed systems, and AI/ML integration. I’m passionate about building intuitive frontends, scalable backends, and cloud-native architectures.
 
-My technical experience spans across Python, C++, JavaScript, and TypeScript, along with frameworks like React, Node.js, FastAPI, and Django. I’m also experienced with cloud and DevOps tools such as AWS, Docker, and Terraform, and enjoy working with databases, APIs, and real-time systems.
+I have practical experience across Python, C++, Java, JavaScript, and TypeScript, along with frameworks like React, SpringBoot, Node.js, FastAPI, and Django. I’m also experienced with cloud and DevOps tools such as AWS, Docker, and Terraform, and enjoy working with databases, APIs, and real-time systems.
 
 I’m passionate about creating intuitive and efficient products that merge engineering precision with thoughtful design. Whether optimizing backend performance, architecting distributed services, or experimenting with AI-powered automation, I’m driven by the challenge of turning complex problems into elegant, user-centered solutions.
 
