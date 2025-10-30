@@ -2,18 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: > 
-  <i>Software Engineer — AI, Cloud, and Scalable Systems</i><br>
-  <div style="margin-top:6px;">
-   <a href="https://github.com/POWERTRICEPS" target="_blank"
-      style="color:#58a6ff; text-decoration:none; margin-right:20px;">
-     <i class="fab fa-github"></i> GitHub
-   </a>
-   <a href="https://linkedin.com/in/xie-raymond" target="_blank"
-      style="color:#58a6ff; text-decoration:none;">
-     <i class="fab fa-linkedin"></i> LinkedIn
-   </a>
-  </div>
+subtitle: <i>Software Engineer — AI, Cloud, and Scalable Systems</i><br>
+
 
 profile:
   align: right
@@ -22,7 +12,16 @@ profile:
   more_info: >
     <p> ⚲ San Francisco, CA</p>
     <p> University of California, Santa Barbara </p>
-
+    <p style="margin-top:8px;">
+      <a href="https://github.com/POWERTRICEPS" target="_blank"
+         style="color:#58a6ff; text-decoration:none; margin-right:15px;">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+      <a href="https://linkedin.com/in/xie-raymond" target="_blank"
+         style="color:#58a6ff; text-decoration:none;">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
