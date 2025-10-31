@@ -10,7 +10,7 @@ profile:
   image: rayy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> ⚲ San Francisco, CA</p>
+    <p> 📍 San Francisco, CA</p>
     <p> University of California, Santa Barbara </p>
     <p style="margin-top:8px;">
       <a href="https://github.com/POWERTRICEPS" target="_blank"
