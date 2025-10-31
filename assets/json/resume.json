@@ -45,50 +45,6 @@
       "courses": ["Data Structure & Algorithms, Cloud Computing, Computer Architecture, Database Systems, Logic Design"]
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
   "skills": [
     {
       "name": "Programming Languages",
@@ -133,7 +89,7 @@
       ]
     },
     {
-      "name": "Engineering",
+      "name": "Software Engineering",
       "level": "Advanced",
       "icon": "fa-solid fa-gears",
       "keywords": [
@@ -193,7 +149,7 @@
 
   "projects": [
     {
-      "name": "AI Tariff Calculator",
+      "name": "AI Powered HTS Tarriff Classifier",
       "summary": "An AI-powered customs tariff classification app that uses OpenAI embeddings with FAISS to match product descriptions to HTS codes and compute applicable tariffs.",
       "highlights": [
         "Developed a semantic search engine leveraging OpenAI embeddings and FAISS for similarity matching on 500k+ product records ",
