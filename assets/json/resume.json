@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "Framworks & Libraries",
+      "name": "Framworks",
       "level": "Advanced",
       "icon": "fa-solid fa-layer-group",
       "keywords": [
@@ -119,29 +119,32 @@
       ]
     },
     {
-      "name": "Programming Languages",
+      "name": "Tools",
       "level": "Advanced",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-cloud",
       "keywords": [
-        "Python",
-        "C++",
-        "JavaScript",
-        "Java",
-        "SQL",
-        "Go"
+        "AWS",
+        "Docker",
+        "Terraform",
+        "Supabase",
+        "PostgreSQL",
+        "Vercel",
+        "GitHub Actions"
       ]
     },
     {
-      "name": "Programming Languages",
+      "name": "Engineering",
       "level": "Advanced",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-gears",
       "keywords": [
-        "Python",
-        "C++",
-        "JavaScript",
-        "Java",
-        "SQL",
-        "Go"
+        "Data Structures & Algorithms",
+        "System Design",
+        "APIs",
+        "RESTful Architecture",
+        "OOP",
+        "Version Control (Git)",
+        "Testing & Debugging",
+        "Linux"
       ]
     } 
   ],
@@ -164,27 +167,74 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Artificial Intelligence & Machine Learning",
+      "icon": "fa-solid fa-robot",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "AI Systems",
+        "LLMs",
+        "Natural Language Processing",
+        "Reinforcement Learning",
+        "Prompt Engineering",
+        "AI Ethics"
+      ]
+    },
+    {
+      "name": "Software Engineering & Development",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Full-Stack Applications",
+        "API Design",
+        "Scalable Architecture",
+        "Cloud Infrastructure",
+        "Open Source Projects"
       ]
     }
   ],
 
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "AI Tariff Calculator",
+      "summary": "An AI-powered customs tariff classification app that uses OpenAI embeddings with FAISS to match product descriptions to HTS codes and compute applicable tariffs.",
+      "highlights": [
+        "Developed a semantic search engine leveraging OpenAI embeddings and FAISS for similarity matching on 500k+ product records ",
+        "Applied NLP (natural language processing)  techniques for text normalization and similarity matching, improving classification accuracy on ambiguous product descriptions",
+        "Improved classification accuracy by 18% compared to keyword search by applying NLP similarity techniques for ambiguous product descriptions"
+      ],
+      "startDate": "2025-07-01",
+      "url": "https://github.com/POWERTRICEPS/tariff-calculator"
+    },
+    {
+      "name": "Chattr — Real-Time Messaging App",
+      "summary": "A real-time chat application enabling live messaging between users through WebSockets and REST APIs.",
+      "highlights": [
+        "Shipped real-time messaging with rooms/presence/typing via WebSockets; designed REST endpoints and message schemas with indexes + TTL cleanup for fast reads and automatic retention",
+        "Built message pagination and query filters for chat history to cap payload sizes and keep scrollback snappy on low-bandwidth clients",
+        "Implemented secure REST APIs with JWT + bcrypt authentication, rate limiting, and structured logging, reducing API vulnerabilities by 40%"
+      ],
+      "startDate": "2024-11-27",
+      "url": "https://github.com/POWERTRICEPS/chat-app"
+    },
+    {
+      "name": "AI-Powered Phishing Email Detection System",
+      "summary": "An AI tool that detects phishing and scam emails using natural language processing and classification models.",
+      "highlights": [
+        "Built a machine learning pipeline using TF-IDF feature extraction and Logistic Regression classifier, achieving 91% precision and 88% recall on a dataset of 100k+ labeled emails",
+        "Implemented TF-IDF vectorization for text feature extraction, preprocessing subject lines, sender fields, and email bodies",
+        "Applied NLP preprocessing techniques to improve classification performance"
+      ],
+      "startDate": "2025-01-12",
+      "url": "https://github.com/POWERTRICEPS/scam-email-detector"
+    },
+    {
+      "name": "Order Book Engine",
+      "summary": "A high-performance C++ order matching engine simulating stock exchange operations using priority queues and multithreading.",
+      "highlights": [
+        "Engineered a low-latency engine replicating exchange-grade functionality, supporting order placement, modification, cancellation, and trade execution under price-time priority rules",
+        "Integrated real-time Binance WebSocket APIs, enabling ingestion and processing of 50,000+ orders/second under stress-tested market conditions",
+        "Optimized synchronization and concurrency control, reducing system latency by 85% and ensuring high availability in distributed environments"
+      ],
+      "startDate": "2025-09-01",
+      "url": "https://github.com/POWERTRICEPS/order-book-engine"
     }
   ]
 }
