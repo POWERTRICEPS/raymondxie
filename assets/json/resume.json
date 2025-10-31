@@ -1,12 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Raymond Xie",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rayxie005@gmail.com",
+    "phone": "415-988-0836",
+    "url": "https://powertriceps.github.io/raymondxie/",
+    "summary": "Computer Science student at UC Santa Barbara passionate about building AI-driven and full-stack applications. Experienced in software engineering, cloud infrastructure, and algorithmic problem solving, with projects ranging from AI-powered tariff classification to real-time chat and financial analysis tools.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
