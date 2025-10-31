@@ -4,7 +4,8 @@
     "image": "",
     "email": "rayxie005@gmail.com",
     "phone": "415-988-0836",
-    "url": "https://powertriceps.github.io/raymondxie/",
+    "LinkedIn": "https://www.linkedin.com/in/xie-raymond/",
+    "GitHub": "http://github.com/POWERTRICEPS",
     "summary": "Computer Science student at UC Santa Barbara passionate about building AI-driven and full-stack applications. Experienced in software engineering, cloud infrastructure, and algorithmic problem solving, with projects ranging from AI-powered tariff classification to real-time chat and financial analysis tools.",
     "location": {
       "address": "2712 Broadway St",
@@ -23,13 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Oriox Customs Broker Inc.",
+      "position": "Customs Brokerage Assistant",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2023-06-10",
+      "endDate": "2025-08-01",
+      "summary": "Filed entries for air and ocean shipments, improving accuracy and efficiency of compliance workflows. Automated compliance workflows by building a PHP-based form handler to streamline POA submissions. Assisted in digitizing shipment documentation, helping transition from paper-based workflows to an internal database system, reducing input errors by 18% and saving ~10 hours/week."
     }
   ],
   "volunteer": [
