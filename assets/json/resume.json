@@ -149,7 +149,7 @@
 
   "projects": [
     {
-      "name": "AI Powered HTS Tarriff Classifier",
+      "name": "AI Powered HTS Tariff Classifier",
       "summary": "An AI-powered customs tariff classification app that uses OpenAI embeddings with FAISS to match product descriptions to HTS codes and compute applicable tariffs.",
       "highlights": [
         "Developed a semantic search engine leveraging OpenAI embeddings and FAISS for similarity matching on 500k+ product records ",
